@@ -21,7 +21,7 @@ This is the repo for the intro to Rmarkdown lesson from Schloss lab meeting on 1
 
 ## Lab meeting exercises
 
-* Work with your partner to replicate the RMarkdow report shown in `1_24labmeeting_solution.html`
+* Work with your partner to replicate the RMarkdown report shown in `1_24labmeeting_solution.html`
 
 * RStudio keeps cheatsheets under `Help > Cheatsheets > RMarkdown cheat sheet`
 
@@ -33,7 +33,8 @@ This is the repo for the intro to Rmarkdown lesson from Schloss lab meeting on 1
   + Josh and Marc
   + Charlie and Kaitlin 
   
-* If you finish early- add something to your report we didn't cover today 
+* If you finish early- add something to your report we didn't cover today. 
+  + can you make the printed numbers "prettier"?
 
 ## Advanced exercises (if we get to them)
 
