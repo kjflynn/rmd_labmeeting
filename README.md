@@ -21,7 +21,7 @@ This is the repo for the intro to Rmarkdown lesson from Schloss lab meeting on 1
 
 ## Lab meeting exercises
 
-* Work with your partner to replicate the RMarkdow report shown in final.pdf
+* Work with your partner to replicate the RMarkdow report shown in `1_24labmeeting_solution.html`
 
 * RStudio keeps cheatsheets under `Help > Cheatsheets > RMarkdown cheat sheet`
 
