@@ -8,11 +8,9 @@ This is the repo for the intro to Rmarkdown lesson from Schloss lab meeting on 1
 
   + Navigate to the folder you want to put this lesson in and run: 
   
-    `mkdir 124_labmeeting`
-  
-    `cd 124_labmeeting`
-  
     `git clone https://github.com/kjflynn/rmd_labmeeting.git`
+    
+  + Then open RStudio and set this as your working directory 
 
 
 * Download packages if you don't have them
@@ -38,4 +36,7 @@ This is the repo for the intro to Rmarkdown lesson from Schloss lab meeting on 1
 * If you finish early- add something to your report we didn't cover today 
 
 ## Advanced exercises (if we get to them)
+
+* creating bibliographies in RMarkdown
+
   
